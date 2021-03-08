@@ -1,0 +1,23 @@
+{
+  "name": "pan-cakes",
+  "version": "1.0.0",
+  "description": "Pancakes Everywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello! I'm a Pancake\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lalisfeed/pan-cakes.git"
+  },
+  "keywords": [
+    "css",
+    "web"
+  ],
+  "author": "Lali Akhil Raj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lalisfeed/pan-cakes/issues"
+  },
+  "homepage": "https://github.com/Lalisfeed/pan-cakes#readme"
+}
